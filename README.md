@@ -16,5 +16,5 @@
 
 - Análise: Durante a fase de análise, nosso foco foi identificar fatores-chave — como dados demográficos dos passageiros, classe do bilhete e porto de embarque — que contribuíram para as chances de sobrevivência. Em vez de focar exclusivamente na modelagem preditiva, enfatizamos a criação de visualizações de dados claras e informativas para comunicar a história por trás dos dados. Essas visualizações tiveram como objetivo revelar padrões e relações que proporcionassem uma compreensão mais profunda dos fatores que influenciaram a sobrevivência no Titanic.
   
-- **Some Visualizations**
+- **Algumas visualizações**:
 ![Titanic Fare-Embarkation](https://github.com/user-attachments/assets/287fc8ee-3ae0-4d8b-ba78-05f5c791c01f)
