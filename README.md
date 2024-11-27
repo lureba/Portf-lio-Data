@@ -11,7 +11,7 @@
   ![Screenshot_4](https://github.com/user-attachments/assets/cebfe15e-ec10-4dbc-9d58-a461a8aba80b)
   ![Screenshot_5](https://github.com/user-attachments/assets/cbb01771-8d2f-4966-b540-d3824895dad4)
 
-### [Titanic: Modelo de Machine Learning e Storytelling de Dados](https://github.com/lureba/Titanic-US)
+### [Titanic: Modelo de Machine Learning e Storytelling de Dados](https://github.com/lureba/Titanic-PTBR))
 - Descrição: Neste projeto, nos concentramos na exploração do conjunto de dados do Titanic por meio de uma abordagem de análise de dados e machine learning. O objetivo principal foi limpar, pré-processar e analisar os dados para entender os fatores que influenciam a sobrevivência dos passageiros. Utilizamos o Jupyter Notebook como nossa plataforma, aproveitando bibliotecas Python como Pandas, Numpy, Matplotlib, Seaborn e Scikit-learn para realizar as várias etapas do projeto, desde a exploração dos dados até a construção e avaliação do modelo.
 
 - Análise: Durante a fase de análise, nosso foco foi identificar fatores-chave — como dados demográficos dos passageiros, classe do bilhete e porto de embarque — que contribuíram para as chances de sobrevivência. Em vez de focar exclusivamente na modelagem preditiva, enfatizamos a criação de visualizações de dados claras e informativas para comunicar a história por trás dos dados. Essas visualizações tiveram como objetivo revelar padrões e relações que proporcionassem uma compreensão mais profunda dos fatores que influenciaram a sobrevivência no Titanic.
